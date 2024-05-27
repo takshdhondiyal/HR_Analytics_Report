@@ -6,7 +6,7 @@ Analysis of a dataset under the HR domain which includes the attendence sheet of
 
 -- ETL in Power Query.
 
--- Writing DAX to calculate the matrics like Presence%, WFH%, SL%, Total Working days and other calculated columns.
+-- Writing DAX to calculate the metrics like Presence%, WFH%, SL%, Total Working days and other calculated columns.
 
 -- Designing the visuals.
 
